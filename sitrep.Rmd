@@ -2,3 +2,10 @@ Comparar tasa de atque en diferentes grupos
 Para identificar grupos a priorizar en intervención.  
 ooo
 Realizar gráficos con {ggplot2}
+
+
+Crear variable aleatoria con distribución normal y graficar su histograma
+```{r}
+hist(rnorm(100, 0, 1))
+```
+
